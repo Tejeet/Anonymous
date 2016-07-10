@@ -1,4 +1,19 @@
-
+      /***************************************************************************************************************
+       *__________Smart Water Metering System for Tap______ Tejeet@outlook.com_________
+       * 
+       *      This is the Project made in the Hackthon Event "Smart City" Boot Camp on ( 8-10 Jully 2016) at Pune.
+       * 
+       * In This project we have Used the Water flow sensor to measure the flow rate of water, and by using ESP8266 WiFi
+       * module , We sent the Data of Water usage on Datonis Cloud . and we have analysed it. and According to this data
+       * we trigger the things like Sent the messege to user about its Over Usage of Water.....
+       * 
+       * 
+       * ****************************************************************************************************************
+       
+      */
+      
+      
+      
       #include <sha256.h>
       #include <ESP8266WiFi.h>
  
